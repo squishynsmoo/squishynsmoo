@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**squishynsmoo/squishynsmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alex Smith 
+[![Twitter Badge](https://img.shields.io/badge/-@prodokit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prodokit)](https://twitter.com/prodokit) [![Linkedin Badge](https://img.shields.io/badge/-alexsmithsolutions-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsmithsolutions/)](https://www.linkedin.com/in/alexsmithsolutions/)
+[![Gmail Badge](https://img.shields.io/badge/-alex@prodokit.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex@prodokit.com)](mailto:alex@prodokit.com)
 
-Here are some ideas to get you started:
+## Hello!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Alex Smith - an experienced Project Manager with a track record of managing stellar customer support teams, as well as a business consultant focusing on the development and implementation of scalable integration solutions.
+
+- 🔭 I’m currently working on GSuite add-ons
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on Google Apps Script projects
+- 💬 Ask me about: GCP, AWS, Azure, Zendesk
+- 😄 Pronouns: he/him/his
