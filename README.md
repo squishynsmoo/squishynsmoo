@@ -8,7 +8,7 @@
 I'm Alex Smith - an experienced Project Manager with a track record of managing stellar customer support teams, as well as a business consultant focusing on the development and implementation of scalable integration solutions.
 
 - 🔭 I’m currently working on GSuite add-ons
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Google Apps Script projects
-- 💬 Ask me about: GCP, AWS, Azure, Zendesk
+- 🌱 I’m currently learning more about JavaScript frameworks
+- 👯 I’m looking to collaborate on Google Apps Script projects or Slack apps
+- 💬 Ask me about: GCP, AWS, Azure, Slack, and Salesforce
 - 😄 Pronouns: he/him/his
