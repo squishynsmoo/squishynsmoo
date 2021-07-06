@@ -5,7 +5,7 @@
 
 ## Hello!
 
-I'm Alex Smith - an experienced Project Manager with a track record of managing stellar customer support teams, as well as a business consultant focusing on the development and implementation of scalable integration solutions.
+I'm Alex Smith - integrations developer, startup founder, open source code evangelist, and general data nerd!
 
 - 🔭 I’m currently working on GSuite add-ons
 - 🌱 I’m currently learning more about JavaScript frameworks
