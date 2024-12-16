@@ -7,8 +7,8 @@
 
 I'm Alex Smith - integrations developer, startup founder, open source code evangelist, and general data nerd!
 
-- 🔭 I’m currently working on GSuite add-ons
-- 🌱 I’m currently learning more about JavaScript frameworks
+- 🔭 I’m currently working on Snowflake integrations
+- 🌱 I’m currently learning more about ETL solutions
 - 👯 I’m looking to collaborate on Google Apps Script projects or Slack apps
-- 💬 Ask me about: GCP, AWS, Azure, Slack, and Salesforce
+- 💬 Ask me about: Okta, Snowflake, Matillion, GCP, AWS, Asana, and Slack
 - 😄 Pronouns: he/him/his
